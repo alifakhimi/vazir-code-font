@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Vazir Code;
+  font-family: Vazir Code FD;
   src: url('Vazir-Code-FD.eot');
   src: url('Vazir-Code-FD.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Code-FD.woff2') format('woff2'),
@@ -9,7 +9,7 @@
 }
 
 @font-face {
-  font-family: Vazir Code Hack;
+  font-family: Vazir Code Hack FD;
   src: url('Vazir-Code-Hack-FD.eot');
   src: url('Vazir-Code-Hack-FD.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Code-Hack-FD.woff2') format('woff2'),
@@ -19,7 +19,7 @@
 }
 
 @font-face {
-  font-family: Vazir Code Extra Height;
+  font-family: Vazir Code Extra Height FD;
   src: url('Vazir-Code-Extra-Height-FD.eot');
   src: url('Vazir-Code-Extra-Height-FD.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Code-Extra-Height-FD.woff2') format('woff2'),
@@ -29,7 +29,7 @@
 }
 
 @font-face {
-  font-family: Vazir Code Hack Extra Height;
+  font-family: Vazir Code Hack Extra Height FD;
   src: url('Vazir-Code-Hack-Extra-Height-FD.eot');
   src: url('Vazir-Code-Hack-Extra-Height-FD.eot?#iefix') format('embedded-opentype'),
        url('Vazir-Code-Hack-Extra-Height-FD.woff2') format('woff2'),
